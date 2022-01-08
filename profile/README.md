@@ -1,12 +1,67 @@
-## Hi there 👋
+# ThunderVolt (Dotslash5.0 team: Done_With_Coding)
 
-<!--
+## Table of Contents
 
-**Here are some ideas to get you started:**
+1.  Introduction
+    
+2.  Features
+    
+3.  Technology Used
+    
+4.  Installation
+    
+5.  Future Improvement
+    
+6.  Contributors
+    
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  
+
+## Introduction
+
+According to the Business Standard report, India will have two million electric vehicles by 2026. So to address the solution for the charging of Electric vehicles and increase the user experience for finding the nearby charging station and pre-booking to avoid the long wait at the charging station. This is project is proposed for Dotslash5.0, 36 hours of hackathon under the topic of Smart city management.
+
+## Features
+
+-   Using the app, one can find the charging station nearby, can view available types of chargers and slots within the app, and can also book his slot according to his convenience.
+    
+-   The app plans the trip and stops to charge the EV according to the location of charging stations lying on or nearby the route just by taking the source and destination points. The user can also pre-book the slots using the estimated time to reach the charging station provided by the app reducing the wait and travel time.
+    
+-   Real-time range tracking and monitoring to notify the user before he runs out of battery and suggest nearby station with empty slots.
+    
+
+## Technology Used
+
+-   Frontend: Flutter and Firebase authentication
+    
+-   Backend: Node.Js
+    
+-   Database: Postgress with PostGIS plugin for special database
+    
+-   APIs: Azure map API
+    
+
+## Installation
+
+-   [Setup Backend](https://github.com/Done-With-Coding/thunderVolt_api#readme)
+    
+-   [Setup FrontEnd](https://github.com/Done-With-Coding/thunderVolt_frontEnd#readme)
+    
+
+## Future Improvement
+
+-   Add emergency SOS for on road assistance
+    
+-   Integrate the application with Android-AUTO for seamless experience to Electric vehicles
+    
+-   Integrate Payment gateways for seamless user experience.
+    
+
+## Contributors
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/vrutikrabadia"><img src="https://avatars.githubusercontent.com/vrutikrabadia" width="100px;" alt=""/><br /><sub><b>Vrutik Rabadia</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/YashMaxy"><img src="https://avatars.githubusercontent.com/YashMaxy" width="100px;" alt=""/><br /><sub><b>Yash Vadi</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/iamoo7"><img src="https://avatars.githubusercontent.com/iamoo7" width="100px;" alt=""/><br /><sub><b>Vrutik Rabadia</b></sub></a><br /></td>
+    </tr>
+</table>  
