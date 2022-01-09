@@ -1,4 +1,6 @@
 # ThunderVolt (Dotslash5.0 team: Done_With_Coding)
+<img src="https://user-images.githubusercontent.com/58649248/148669332-5cf8a939-e092-4e49-83a0-f8b801765f58.png" width="100" height="100">
+
 
 ## Table of Contents
 
